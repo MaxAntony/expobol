@@ -1,7 +1,7 @@
 //un middleware es un programa que hace de intermediarios entre el cliente y el servidor para preprocesar datos
 
 //Express.js es un framework para Node.js que sirve para ayudarnos a crear aplicaciones web en menos tiempo ya que nos proporciona funcionalidades como el  enrutamiento, opciones para gestionar sesiones y cookies, y un largo etc…
-const express = require('express');
+const express = require('express'); 
 //es un middleware que nos permite subir imagenes
 const multer = require('multer');
 //módulo proporciona muchas funciones muy útiles para acceder e interactuar con el sistema de archivos.
